@@ -2,4 +2,4 @@ console.log("test")
 function check(name) {
     console.log(name)
 }
-check("{qwe")
+check("123456")
